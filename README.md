@@ -15,36 +15,11 @@
 
 ---
 
-### `$ cat whoami.py`
+### 🖥️ whoami
 
-```python
-from dataclasses import dataclass, field
-
-@dataclass
-class Agent:
-    name: str = "Shubham Yedekar"
-    role: tuple = ("ML Engineer", "Agentic AI Developer")
-    system_prompt: str = "Turn messy data and vague ideas into AI that actually ships."
-
-    tools: dict = field(default_factory=lambda: {
-        "languages":  ["Python", "TypeScript", "SQL"],
-        "ml":         ["PyTorch", "TensorFlow", "scikit-learn"],
-        "agents":     ["LangChain", "MCP", "tool-calling LLMs"],
-        "backend":    ["FastAPI", "Docker"],
-        "cloud":      ["AWS", "Linux"],
-    })
-
-    memory: list = field(default_factory=lambda: [
-        "currently_exploring -> multi-agent systems & Model Context Protocol",
-        "currently_building  -> agentic analytics pipelines",
-        "always_learning     -> scalable, production-grade AI infra",
-    ])
-
-    def run(self, problem):
-        return self.plan(problem) | self.act() | self.evaluate() | self.ship()
-
-me = Agent()
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=1800&pause=400&color=00FF9C&background=0D1117&multiline=true&repeat=false&width=720&height=230&lines=%24+whoami;%3E+Shubham+Yedekar+%C2%B7+ML+Engineer+%C2%B7+Agentic+AI+Developer;%24+cat+stack.txt;%3E+Python+%C2%B7+PyTorch+%C2%B7+LangChain+%C2%B7+MCP+%C2%B7+FastAPI+%C2%B7+Docker+%C2%B7+AWS;%24+cat+building.txt;%3E+multi-agent+systems+%26+agentic+analytics;%24+cat+mission.txt;%3E+turn+messy+data+into+AI+that+actually+ships" />
+</p>
 
 ---
 
