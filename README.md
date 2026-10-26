@@ -1,7 +1,8 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff9c,100:0d1117&height=220&section=header&text=Shubham%20Yedekar&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=I%20build%20agents%20that%20think%2C%20act%20%26%20ship&descAlignY=72&descSize=18" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=46&duration=2500&pause=100000&color=00FF9C&center=true&vCenter=true&repeat=false&width=800&height=80&lines=Shubham+Yedekar" />
 </p>
+
+<h3 align="center">I build agents that think, act & ship ⚡</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=640&lines=%3E+initializing+agent...;%3E+loading+tools%3A+python%2C+pytorch%2C+langchain;%3E+connecting+MCP+servers...+%E2%9C%93;%3E+status%3A+ready+to+build+something+wild" />
@@ -51,14 +52,14 @@ me = Agent()
 
 ```mermaid
 flowchart LR
-    U([👤 User intent]) --> P{{🧭 Planner LLM}}
-    P -->|decompose| T1[🔧 Tool: SQL / APIs]
-    P -->|retrieve| T2[📚 RAG / Vector store]
-    P -->|connect| T3[🔌 MCP servers]
-    T1 & T2 & T3 --> R[⚙️ Reasoning loop]
-    R -->|self-check| E{✅ Evaluator}
+    U([User intent]) --> P{{Planner LLM}}
+    P -->|decompose| T1[Tools: SQL / APIs]
+    P -->|retrieve| T2[RAG / Vector store]
+    P -->|connect| T3[MCP servers]
+    T1 & T2 & T3 --> R[Reasoning loop]
+    R -->|self-check| E{Evaluator}
     E -- retry --> P
-    E -- pass --> O([🚀 FastAPI → Docker → AWS])
+    E -- pass --> O([FastAPI → Docker → AWS])
 
     style P fill:#0d1117,stroke:#00ff9c,color:#fff
     style E fill:#0d1117,stroke:#00ff9c,color:#fff
@@ -126,9 +127,5 @@ Projects, skills and experience in one place.
 ---
 
 <p align="center">
-  <code>&gt; agent.status → open to collaborate on AI, agents & data projects</code>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=100&section=footer" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=00FF9C&center=true&vCenter=true&width=600&lines=%3E+agent.status+%E2%86%92+open+to+collaborate+on+AI%2C+agents+%26+data" />
 </p>
