@@ -19,12 +19,10 @@
 ## 👨‍💻 About Me
 
 - 💼 **AI / ML Engineer** with 6+ years across software, data and ML engineering, including 3+ years taking Generative AI from prototype to production
-- 🎯 Recently completed **MS in Computer Science at Rutgers University**, New Brunswick (May 2026)
+- 🎯 Recently completed **MS in Data Science at University of Connecticut **, Connecticut (May 2024)
 - 🥇 **3x Hackathon Winner:** Columbia Get Hired Hack 2026 (1st of 50 teams) · HackRU 2025 (1st of 450+ participants) · Top 5 of 200 teams at Barclays Data Stellar 2023 (team lead)
-- 👨‍🏫 Worked as a **Teaching Assistant at Rutgers**, teaching Database Management, Web Development and Discrete Structures
-- 🔬 Published **3 research papers** in the AI/ML domain
+- 👨‍🏫 Worked as a **Teaching Assistant at UCONN**, teaching Database Management, Web Development and Discrete Structures
 - 🌱 Currently exploring **multi-agent systems, Agentic Ops and cloud infrastructure**
-- 📚 **B.Tech in Information Technology** from SPIT (Class Rank: 4th/100)
 - 🎯 Looking for **full-time opportunities in 2026**
 
 ---
